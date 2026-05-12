@@ -1,3 +1,6 @@
+Architecture Diagram
+![image alt](https://github.com/teajo99/finance-web-app-aws/blob/a89e59182b4c1852bfe42e8008463783868adac4/Finance%20web%20app/Architecture%20diagram.png)
+
 # Finance Web App Simulation on AWS
 
 ## Overview
