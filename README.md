@@ -1,6 +1,8 @@
 Architecture Diagram
 ![image alt](https://github.com/teajo99/finance-web-app-aws/blob/a89e59182b4c1852bfe42e8008463783868adac4/Finance%20web%20app/Architecture%20diagram.png)
 
+AWS-based finance web application architecture designed for scalability and high availability. User traffic is distributed through an Application Load Balancer to an Auto Scaling Group of EC2 instances deployed across multiple Availability Zones within a VPC. The EC2 instances host a simple finance web application initialized using a user data script. CloudWatch monitors CPU utilization and triggers scaling policies to automatically adjust capacity between one and three instances based on demand, demonstrating elastic infrastructure and fault-tolerant design principles.
+
 # Finance Web App Simulation on AWS
 
 ## Overview
