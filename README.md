@@ -5,6 +5,7 @@ AWS-based finance web application architecture designed for scalability and high
 
 # Finance Web App Simulation on AWS
 
+
 ## Overview
 This project simulates the deployment of a **finance web application** on AWS, focusing on scalability, high availability, and infrastructure automation. The environment is designed to replicate a trading platform that can handle fluctuations in user traffic, highlighting expertise in AWS core services including **VPC, EC2, and Auto Scaling**.
 
